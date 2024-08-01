@@ -114,7 +114,7 @@ document.write("<hr/>")
 // *******************************************************************************
 
 
-// Q24. Reverse Center Triangle
+// Q25. Reverse Center Triangle
 
 for(let x = 5; x >= 1; x--) {
 
